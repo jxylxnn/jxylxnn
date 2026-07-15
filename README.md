@@ -119,9 +119,9 @@ When I’m away from the terminal, I’m usually playing sousaphone with the **F
 
 <div align="center">
 
-[![Jaylen's latest Last.fm track](https://img.shields.io/endpoint?style=for-the-badge&color=9E5A57&labelColor=252820&url=https%3A%2F%2Flastfm-last-played.biancarosa.com.br%2Fjxylxn%2Flatest-song%3Fformat%3Dshields.io)](https://www.last.fm/user/jxylxn)
+[![Jaylen's live YouTube Music player](https://now-playing-card.vercel.app/api/now-playing)](https://now-playing-card.vercel.app/api/open-track)
 
-<sub>Updates automatically from YouTube Music · Scrobbled through Last.fm</sub>
+<sub>Updates automatically from YouTube Music · Click the player to open the current track</sub>
 
 </div>
 

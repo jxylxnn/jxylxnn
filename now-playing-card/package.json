@@ -1,0 +1,8 @@
+{
+  "name": "jxylxn-now-playing-card",
+  "version": "1.0.0",
+  "private": true,
+  "engines": {
+    "node": ">=20"
+  }
+}
