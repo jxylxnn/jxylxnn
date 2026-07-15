@@ -1,17 +1,18 @@
 <div align="center">
 
-<img src="./profile-banner.png" width="100%" alt="Jaylen Bain — Computer Science, Machine Learning, and Data Science">
+<img src="./profile-banner.png" width="100%" alt="Jaylen Bain profile banner">
 
 <br>
 
 # Jaylen Bain
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=22&duration=3200&pause=1000&color=9E5A57&center=true&vCenter=true&width=750&height=45&lines=Computer+Science+Student+at+Florida+A%26M;Machine+Learning+%26+Data+Science;Building+intelligent+systems+with+purpose;Learning.+Creating.+Growing.)](https://github.com/DenverCoder1/readme-typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=22&duration=3200&pause=1000&color=9E5A57&center=true&vCenter=true&width=800&height=50&lines=Computer+Science+Student+at+Florida+A%26M;Machine+Learning+%26+Data+Science;Building+intelligent+systems+with+purpose;Learning.+Creating.+Growing.)](https://github.com/DenverCoder1/readme-typing-svg)
 
 <p>
   <a href="https://github.com/jxylxnn">
-    <img src="https://img.shields.io/badge/GitHub-jxylxnn-2F3426?style=for-the-badge&logo=github&logoColor=F0E1C6" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-jxylxnn-2F3426?style=for-the-badge&logo=github&logoColor=F0E1C6" alt="GitHub profile">
   </a>
+
   <img src="https://komarev.com/ghpvc/?username=jxylxnn&style=for-the-badge&color=6B724B&label=VISITORS" alt="Profile visitors">
 </p>
 
@@ -39,19 +40,23 @@ Outside of technology, I play sousaphone in the **FAMU Marching 100**, produce m
 jaylen = {
     "university": "Florida A&M University",
     "major": "Computer Science",
+
     "focus": [
         "Artificial Intelligence",
         "Machine Learning",
         "Data Science",
         "Predictive Analytics",
     ],
+
     "currently_building": "Intelligent forecasting systems",
     "currently_researching": "Marine heat-stress prediction",
+
     "outside_of_code": [
         "FAMU Marching 100",
         "Music Production",
         "Kappa Kappa Psi",
     ],
+
     "mission": "Build useful technology with creativity and purpose",
 }
 ```
@@ -122,31 +127,51 @@ A data-driven system for estimating event probabilities, comparing market prices
 
 ---
 
-### AI School Assistant
 
-> An academic assistant designed around real student workflows.
-
-`Python` · `AI Agents` · `Canvas LMS` · `Automation`
-
-A student-focused system designed to organize assignments, explain coursework, create study schedules, synchronize academic information, and simplify school management.
-
----
 
 <div align="center">
 
 ## GitHub Garden
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=jxylxnn&show_icons=true&hide_border=true&rank_icon=github&bg_color=252820&title_color=E3C27A&icon_color=9E5A57&text_color=F0E1C6" alt="Jaylen's GitHub statistics">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=jxylxnn&show_icons=true&hide_border=true&theme=transparent&title_color=E3C27A&icon_color=9E5A57&text_color=F0E1C6"
+  >
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=jxylxnn&show_icons=true&hide_border=true&theme=transparent&title_color=7C4141&icon_color=9E5A57&text_color=2F3426"
+    alt=""
+  >
+</picture>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxylxnn&layout=compact&hide_border=true&langs_count=8&bg_color=252820&title_color=E3C27A&text_color=F0E1C6" alt="Jaylen's most used languages">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jxylxnn&layout=compact&hide_border=true&theme=transparent&langs_count=8&title_color=E3C27A&text_color=F0E1C6"
+  >
+  <img
+    width="41%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxylxnn&layout=compact&hide_border=true&theme=transparent&langs_count=8&title_color=7C4141&text_color=2F3426"
+    alt=""
+  >
+</picture>
 
-<br>
+<br><br>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=jxylxnn&hide_border=true&background=252820&ring=E3C27A&fire=9E5A57&currStreakLabel=E3C27A&sideLabels=F0E1C6&dates=A8A08B&currStreakNum=F0E1C6&sideNums=F0E1C6" alt="Jaylen's GitHub contribution streak">
+<img
+  width="70%"
+  src="https://streak-stats.demolab.com?user=jxylxnn&hide_border=true&background=00000000&ring=E3C27A&fire=9E5A57&currStreakLabel=9E5A57&sideLabels=A8A08B&dates=A8A08B&currStreakNum=E3C27A&sideNums=F0E1C6"
+  alt=""
+>
 
-<br>
+<br><br>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=jxylxnn&bg_color=252820&color=F0E1C6&line=9E5A57&point=E3C27A&area=true&area_color=4F5840&hide_border=true&custom_title=Contribution%20Activity" alt="Jaylen's GitHub contribution activity">
+<img
+  width="95%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=jxylxnn&bg_color=00000000&color=A8A08B&line=9E5A57&point=E3C27A&area=true&area_color=4F5840&hide_border=true&custom_title=Contribution%20Activity"
+  alt=""
+>
 
 </div>
 
@@ -207,6 +232,10 @@ Primary Interests
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:252820,40:4F5840,70:7C4141,100:B48754&height=130&section=footer" alt="Footer">
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:252820,40:4F5840,70:7C4141,100:B48754&height=130&section=footer"
+  alt=""
+>
 
 </div>
