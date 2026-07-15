@@ -1,20 +1,26 @@
 <div align="center">
 
-<img src="./profile-banner.png" width="100%" alt="Jaylen Bain profile banner">
-
-<br>
+<img src="./profile-banner.png" width="100%" alt="Jaylen Bain coding in a futuristic city at sunset">
 
 # Jaylen Bain
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=22&duration=3200&pause=1000&color=9E5A57&center=true&vCenter=true&width=800&height=50&lines=Computer+Science+Student+at+Florida+A%26M;Machine+Learning+%26+Data+Science;Building+intelligent+systems+with+purpose;Learning.+Creating.+Growing.)](https://github.com/DenverCoder1/readme-typing-svg)
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=DM+Mono&amp;weight=500&amp;size=22&amp;duration=3200&amp;pause=1000&amp;color=9E5A57&amp;center=true&amp;vCenter=true&amp;width=800&amp;height=50&amp;lines=Computer+Science+Student+at+Florida+A%26M;Machine+Learning+%26+Data+Science;Building+intelligent+systems+with+purpose;Learning.+Creating.+Growing."
+    alt="Computer Science student at Florida A&amp;M focused on machine learning and data science"
+  >
+</a>
 
 <p>
   <a href="https://github.com/jxylxnn">
-    <img src="https://img.shields.io/badge/GitHub-jxylxnn-2F3426?style=for-the-badge&logo=github&logoColor=F0E1C6" alt="GitHub profile">
+    <img src="https://img.shields.io/badge/GitHub-jxylxnn-2F3426?style=for-the-badge&amp;logo=github&amp;logoColor=F0E1C6" alt="Visit Jaylen's GitHub profile">
   </a>
-
-  <img src="https://komarev.com/ghpvc/?username=jxylxnn&style=for-the-badge&color=6B724B&label=VISITORS" alt="Profile visitors">
+  <img src="https://komarev.com/ghpvc/?username=jxylxnn&amp;style=for-the-badge&amp;color=6B724B&amp;label=VISITORS" alt="GitHub profile visitor count">
 </p>
+
+**Computer Science @ Florida A&amp;M University** · AI/ML · Data Science · Predictive Systems
+
+_Build patiently. Learn deeply. Create with purpose._
 
 </div>
 
@@ -22,90 +28,58 @@
 
 ## About Me
 
-I’m **Jaylen Bain**, a Computer Science student at **Florida A&M University** focused on artificial intelligence, machine learning, data science, and intelligent software systems.
+I’m a Computer Science student at **Florida A&amp;M University** building at the intersection of artificial intelligence, machine learning, and data science. I like turning complex ideas and messy data into systems that are useful, understandable, and built with purpose.
 
-I enjoy transforming complicated ideas and large amounts of data into tools that are useful, understandable, and meaningful.
-
-My current work explores:
-
-- Machine-learning prediction systems
-- Basketball analytics and forecasting
-- Environmental and marine heat-stress research
-- AI agents and academic automation
-- Data-driven decision systems
-
-Outside of technology, I play sousaphone in the **FAMU Marching 100**, produce music, and serve as the **Southeast District Vice President of Programs for Kappa Kappa Psi**.
+Right now, I’m exploring player-performance forecasting, marine heat-stress prediction, AI agents, and data-driven decision systems.
 
 ```python
 jaylen = {
-    "university": "Florida A&M University",
-    "major": "Computer Science",
-
-    "focus": [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Data Science",
-        "Predictive Analytics",
-    ],
-
-    "currently_building": "Intelligent forecasting systems",
-    "currently_researching": "Marine heat-stress prediction",
-
-    "outside_of_code": [
-        "FAMU Marching 100",
-        "Music Production",
-        "Kappa Kappa Psi",
-    ],
-
-    "mission": "Build useful technology with creativity and purpose",
+    "building": ["forecasting systems", "AI agents", "data products"],
+    "researching": "marine heat-stress prediction",
+    "off_screen": ["sousaphone", "music production", "basketball analytics"],
+    "principle": "technical depth + creativity + purpose",
 }
 ```
 
----
+## Tools of the Craft
 
 <div align="center">
 
-## Tools of the Craft
-
 ### Languages
 
-<img src="https://img.shields.io/badge/Python-2F3426?style=for-the-badge&logo=python&logoColor=E3C27A" alt="Python">
-<img src="https://img.shields.io/badge/C%2B%2B-6B724B?style=for-the-badge&logo=cplusplus&logoColor=F0E1C6" alt="C++">
-<img src="https://img.shields.io/badge/Java-7C4141?style=for-the-badge&logo=openjdk&logoColor=F0E1C6" alt="Java">
-<img src="https://img.shields.io/badge/JavaScript-B48754?style=for-the-badge&logo=javascript&logoColor=2F3426" alt="JavaScript">
-<img src="https://img.shields.io/badge/SQL-4F5840?style=for-the-badge&logo=postgresql&logoColor=F0E1C6" alt="SQL">
+<img src="https://img.shields.io/badge/Python-2F3426?style=for-the-badge&amp;logo=python&amp;logoColor=E3C27A" alt="Python">
+<img src="https://img.shields.io/badge/C%2B%2B-6B724B?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=F0E1C6" alt="C++">
+<img src="https://img.shields.io/badge/Java-7C4141?style=for-the-badge&amp;logo=openjdk&amp;logoColor=F0E1C6" alt="Java">
+<img src="https://img.shields.io/badge/JavaScript-B48754?style=for-the-badge&amp;logo=javascript&amp;logoColor=2F3426" alt="JavaScript">
+<img src="https://img.shields.io/badge/SQL-4F5840?style=for-the-badge&amp;logo=postgresql&amp;logoColor=F0E1C6" alt="SQL">
 
 ### Machine Learning and Data
 
-<img src="https://img.shields.io/badge/PyTorch-7C4141?style=for-the-badge&logo=pytorch&logoColor=F0E1C6" alt="PyTorch">
-<img src="https://img.shields.io/badge/Scikit--Learn-B48754?style=for-the-badge&logo=scikitlearn&logoColor=2F3426" alt="Scikit-learn">
-<img src="https://img.shields.io/badge/Pandas-2F3426?style=for-the-badge&logo=pandas&logoColor=F0E1C6" alt="Pandas">
-<img src="https://img.shields.io/badge/NumPy-6B724B?style=for-the-badge&logo=numpy&logoColor=F0E1C6" alt="NumPy">
-<img src="https://img.shields.io/badge/Jupyter-9E5A57?style=for-the-badge&logo=jupyter&logoColor=F0E1C6" alt="Jupyter">
+<img src="https://img.shields.io/badge/PyTorch-7C4141?style=for-the-badge&amp;logo=pytorch&amp;logoColor=F0E1C6" alt="PyTorch">
+<img src="https://img.shields.io/badge/Scikit--Learn-B48754?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=2F3426" alt="Scikit-learn">
+<img src="https://img.shields.io/badge/Pandas-2F3426?style=for-the-badge&amp;logo=pandas&amp;logoColor=F0E1C6" alt="Pandas">
+<img src="https://img.shields.io/badge/NumPy-6B724B?style=for-the-badge&amp;logo=numpy&amp;logoColor=F0E1C6" alt="NumPy">
+<img src="https://img.shields.io/badge/Jupyter-9E5A57?style=for-the-badge&amp;logo=jupyter&amp;logoColor=F0E1C6" alt="Jupyter">
 
 ### Development
 
-<img src="https://img.shields.io/badge/Git-7C4141?style=for-the-badge&logo=git&logoColor=F0E1C6" alt="Git">
-<img src="https://img.shields.io/badge/GitHub-2F3426?style=for-the-badge&logo=github&logoColor=F0E1C6" alt="GitHub">
-<img src="https://img.shields.io/badge/VS_Code-4F5840?style=for-the-badge&logo=visualstudiocode&logoColor=F0E1C6" alt="Visual Studio Code">
-<img src="https://img.shields.io/badge/Docker-6B724B?style=for-the-badge&logo=docker&logoColor=F0E1C6" alt="Docker">
-<img src="https://img.shields.io/badge/Linux-B48754?style=for-the-badge&logo=linux&logoColor=2F3426" alt="Linux">
+<img src="https://img.shields.io/badge/Git-7C4141?style=for-the-badge&amp;logo=git&amp;logoColor=F0E1C6" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-2F3426?style=for-the-badge&amp;logo=github&amp;logoColor=F0E1C6" alt="GitHub">
+<img src="https://img.shields.io/badge/VS_Code-4F5840?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=F0E1C6" alt="Visual Studio Code">
+<img src="https://img.shields.io/badge/Docker-6B724B?style=for-the-badge&amp;logo=docker&amp;logoColor=F0E1C6" alt="Docker">
+<img src="https://img.shields.io/badge/Linux-B48754?style=for-the-badge&amp;logo=linux&amp;logoColor=2F3426" alt="Linux">
 
 </div>
-
----
 
 ## Selected Work
 
 ### NBA Player Prediction System
 
-> Forecasting player performance through historical statistics, game context, and machine learning.
+> Forecasting player performance from historical statistics, game context, and machine learning.
 
 `Python` · `CatBoost` · `Transformers` · `Time Series` · `Feature Engineering`
 
-A prediction system designed to study player history, matchups, team conditions, lineups, and possession-level patterns to produce more informed NBA player-stat forecasts.
-
----
+Studies player history, matchups, team conditions, lineups, and possession-level patterns to produce more informed player-stat forecasts.
 
 ### Marine Heat-Stress Research
 
@@ -113,9 +87,7 @@ A prediction system designed to study player history, matchups, team conditions,
 
 `Python` · `Machine Learning` · `LSTM` · `Time Series` · `Buoy Data`
 
-Researching whether machine-learning models trained on long-term buoy measurements can provide earlier warnings of marine heat-stress events that threaten coral reefs, fisheries, and coastal communities.
-
----
+Explores whether models trained on long-term buoy measurements can warn of marine heat-stress events that threaten coral reefs, fisheries, and coastal communities.
 
 ### Polymarket Analytics
 
@@ -123,119 +95,44 @@ Researching whether machine-learning models trained on long-term buoy measuremen
 
 `Python` · `Statistics` · `Probability` · `Market Analysis`
 
-A data-driven system for estimating event probabilities, comparing market prices with model predictions, and identifying possible mispricing.
+Estimates event probabilities, compares market prices with model predictions, and looks for meaningful gaps between the two.
 
----
+### AI School Assistant
 
+> Making academic workflows simpler with practical AI agents.
 
+`Python` · `AI Agents` · `Canvas LMS` · `Automation`
 
-<div align="center">
-
-## GitHub Garden
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=jxylxnn&show_icons=true&hide_border=true&theme=transparent&title_color=E3C27A&icon_color=9E5A57&text_color=F0E1C6"
-  >
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=jxylxnn&show_icons=true&hide_border=true&theme=transparent&title_color=7C4141&icon_color=9E5A57&text_color=2F3426"
-    alt=""
-  >
-</picture>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jxylxnn&layout=compact&hide_border=true&theme=transparent&langs_count=8&title_color=E3C27A&text_color=F0E1C6"
-  >
-  <img
-    width="41%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxylxnn&layout=compact&hide_border=true&theme=transparent&langs_count=8&title_color=7C4141&text_color=2F3426"
-    alt=""
-  >
-</picture>
-
-<br><br>
-
-<img
-  width="70%"
-  src="https://streak-stats.demolab.com?user=jxylxnn&hide_border=true&background=00000000&ring=E3C27A&fire=9E5A57&currStreakLabel=9E5A57&sideLabels=A8A08B&dates=A8A08B&currStreakNum=E3C27A&sideNums=F0E1C6"
-  alt=""
->
-
-<br><br>
-
-<img
-  width="95%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=jxylxnn&bg_color=00000000&color=A8A08B&line=9E5A57&point=E3C27A&area=true&area_color=4F5840&hide_border=true&custom_title=Contribution%20Activity"
-  alt=""
->
-
-</div>
-
----
-
-## Currently Growing
-
-| Focus | What I’m Doing |
-|:---|:---|
-| **Building** | Machine-learning prediction and forecasting systems |
-| **Researching** | Marine heat stress and environmental forecasting |
-| **Improving** | Data pipelines, feature engineering, and model accuracy |
-| **Exploring** | AI agents and open-source language models |
-| **Creating** | Music, software, and digital experiences |
-| **Preparing** | AI, machine-learning, and data-science opportunities |
-
----
+Organizes assignments, explains coursework, builds study schedules, and brings scattered academic information into one workflow.
 
 ## Experience and Leadership
 
-```text
-Florida A&M University
-├── B.S. Computer Science
-├── Machine-Learning Research
-└── FAMU Marching 100 — Sousaphone
-
-Microsoft
-└── Software Engineering Internship — Seattle
-
-Kappa Kappa Psi
-├── Southeast District Vice President of Programs
-└── Delta Iota Chapter
-
-Primary Interests
-├── Artificial Intelligence
-├── Machine Learning
-├── Data Science
-├── Time-Series Forecasting
-└── Predictive Analytics
-```
-
----
+- **Florida A&amp;M University** — B.S. Computer Science, machine-learning research, and FAMU Marching 100 sousaphone
+- **Microsoft** — Software Engineering Intern in Seattle
+- **Kappa Kappa Psi** — Southeast District Vice President of Programs and Delta Iota Chapter member
 
 ## Beyond the Screen
 
-- I play sousaphone in the **FAMU Marching 100**
-- I produce beats and create music in **FL Studio**
-- I experiment with open-source AI models and developer tools
-- I enjoy basketball analytics and statistical forecasting
-- I want to use technology to solve meaningful real-world problems
-- I believe technical skill should be paired with creativity and purpose
+When I’m away from the terminal, I’m usually playing sousaphone with the **FAMU Marching 100**, producing music in **FL Studio**, or thinking about basketball through the lens of data and forecasting.
 
----
+## GitHub Garden
 
 <div align="center">
 
-### Build patiently. Learn deeply. Create with purpose.
+<a href="https://github.com/jxylxnn">
+  <img
+    width="95%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=jxylxnn&amp;bg_color=00000000&amp;color=A8A08B&amp;line=9E5A57&amp;point=E3C27A&amp;area=true&amp;area_color=4F5840&amp;hide_border=true&amp;custom_title=Contribution%20Activity"
+    alt="Jaylen Bain's GitHub contribution activity graph"
+  >
+</a>
 
-<br>
+<br><br>
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:252820,40:4F5840,70:7C4141,100:B48754&height=130&section=footer"
-  alt=""
+  src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:252820,40:4F5840,70:7C4141,100:B48754&amp;height=130&amp;section=footer"
+  alt="Earth-tone gradient footer"
 >
 
 </div>
