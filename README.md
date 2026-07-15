@@ -97,18 +97,11 @@ Explores whether models trained on long-term buoy measurements can warn of marin
 
 Estimates event probabilities, compares market prices with model predictions, and looks for meaningful gaps between the two.
 
-### AI School Assistant
-
-> Making academic workflows simpler with practical AI agents.
-
-`Python` · `AI Agents` · `Canvas LMS` · `Automation`
-
-Organizes assignments, explains coursework, builds study schedules, and brings scattered academic information into one workflow.
 
 ## Experience and Leadership
 
 - **Florida A&amp;M University** — B.S. Computer Science, machine-learning research, and FAMU Marching 100 sousaphone
-- **Microsoft** — Software Engineering Intern in Seattle
+- **Acorn** — Software Engineering Intern (remote) - 2025
 - **Kappa Kappa Psi** — Southeast District Vice President of Programs and Delta Iota Chapter member
 
 ## Beyond the Screen
