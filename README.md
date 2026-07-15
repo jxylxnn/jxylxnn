@@ -97,6 +97,13 @@ Explores whether models trained on long-term buoy measurements can warn of marin
 
 Estimates event probabilities, compares market prices with model predictions, and looks for meaningful gaps between the two.
 
+### AI School Assistant
+
+> Making academic workflows simpler with practical AI agents.
+
+`Python` · `AI Agents` · `Canvas LMS` · `Automation`
+
+Organizes assignments, explains coursework, builds study schedules, and brings scattered academic information into one workflow.
 
 ## Experience and Leadership
 
@@ -107,6 +114,16 @@ Estimates event probabilities, compares market prices with model predictions, an
 ## Beyond the Screen
 
 When I’m away from the terminal, I’m usually playing sousaphone with the **FAMU Marching 100**, producing music in **FL Studio**, or thinking about basketball through the lens of data and forecasting.
+
+## Now Listening
+
+<div align="center">
+
+[![Jaylen's recently played music](https://lastfm-recently-played.vercel.app/api?user=jxylxn&width=700&count=3&header_style=compact&footer_style=none&bg_color=252820&border_radius=10&maxage=60)](https://www.last.fm/user/jxylxn)
+
+<sub>Live from YouTube Music · Scrobbled through Last.fm</sub>
+
+</div>
 
 ## GitHub Garden
 
@@ -119,13 +136,5 @@ When I’m away from the terminal, I’m usually playing sousaphone with the **F
     alt="Jaylen Bain's GitHub contribution activity graph"
   >
 </a>
-
-<br><br>
-
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:252820,40:4F5840,70:7C4141,100:B48754&amp;height=130&amp;section=footer"
-  alt="Earth-tone gradient footer"
->
 
 </div>
