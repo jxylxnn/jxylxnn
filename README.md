@@ -134,5 +134,6 @@ When I’m away from the terminal, I’m usually playing sousaphone with the **F
   src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:252820,40:4F5840,70:7C4141,100:B48754&amp;height=130&amp;section=footer"
   alt="Earth-tone gradient footer"
 >
+![Earth-tone gradient footer](https://capsule-render.vercel.app/api?type=waving&color=0%3A252820%2C40%3A4F5840%2C70%3A7C4141%2C100%3AB48754&height=130&section=footer)
 
 </div>
