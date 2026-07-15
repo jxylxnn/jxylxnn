@@ -97,13 +97,6 @@ Explores whether models trained on long-term buoy measurements can warn of marin
 
 Estimates event probabilities, compares market prices with model predictions, and looks for meaningful gaps between the two.
 
-### AI School Assistant
-
-> Making academic workflows simpler with practical AI agents.
-
-`Python` · `AI Agents` · `Canvas LMS` · `Automation`
-
-Organizes assignments, explains coursework, builds study schedules, and brings scattered academic information into one workflow.
 
 ## Experience and Leadership
 
