@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
 
 # Jaylen Bain
@@ -197,4 +196,3 @@ Primary Interests
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:252820,40:4F5840,70:7C4141,100:B48754&height=130&section=footer">
 
 </div>
-````
