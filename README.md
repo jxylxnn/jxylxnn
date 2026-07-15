@@ -1,4 +1,4 @@
-````html
+````markdown
 <div align="center">
 
 # Jaylen Bain
@@ -45,7 +45,7 @@ jaylen = {
         "Kappa Kappa Psi"
     ]
 }
-````
+```
 
 ---
 
@@ -55,27 +55,27 @@ jaylen = {
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-2F3426?style=for-the-badge\&logo=python\&logoColor=E3C27A)
-![C++](https://img.shields.io/badge/C%2B%2B-6B724B?style=for-the-badge\&logo=cplusplus\&logoColor=F0E1C6)
-![Java](https://img.shields.io/badge/Java-7C4141?style=for-the-badge\&logo=openjdk\&logoColor=F0E1C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-B48754?style=for-the-badge\&logo=javascript\&logoColor=2F3426)
-![SQL](https://img.shields.io/badge/SQL-4F5840?style=for-the-badge\&logo=postgresql\&logoColor=F0E1C6)
+![Python](https://img.shields.io/badge/Python-2F3426?style=for-the-badge&logo=python&logoColor=E3C27A)
+![C++](https://img.shields.io/badge/C%2B%2B-6B724B?style=for-the-badge&logo=cplusplus&logoColor=F0E1C6)
+![Java](https://img.shields.io/badge/Java-7C4141?style=for-the-badge&logo=openjdk&logoColor=F0E1C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-B48754?style=for-the-badge&logo=javascript&logoColor=2F3426)
+![SQL](https://img.shields.io/badge/SQL-4F5840?style=for-the-badge&logo=postgresql&logoColor=F0E1C6)
 
 ### Machine Learning & Data
 
-![PyTorch](https://img.shields.io/badge/PyTorch-7C4141?style=for-the-badge\&logo=pytorch\&logoColor=F0E1C6)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-B48754?style=for-the-badge\&logo=scikitlearn\&logoColor=2F3426)
-![Pandas](https://img.shields.io/badge/Pandas-2F3426?style=for-the-badge\&logo=pandas\&logoColor=F0E1C6)
-![NumPy](https://img.shields.io/badge/NumPy-6B724B?style=for-the-badge\&logo=numpy\&logoColor=F0E1C6)
-![Jupyter](https://img.shields.io/badge/Jupyter-9E5A57?style=for-the-badge\&logo=jupyter\&logoColor=F0E1C6)
+![PyTorch](https://img.shields.io/badge/PyTorch-7C4141?style=for-the-badge&logo=pytorch&logoColor=F0E1C6)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-B48754?style=for-the-badge&logo=scikitlearn&logoColor=2F3426)
+![Pandas](https://img.shields.io/badge/Pandas-2F3426?style=for-the-badge&logo=pandas&logoColor=F0E1C6)
+![NumPy](https://img.shields.io/badge/NumPy-6B724B?style=for-the-badge&logo=numpy&logoColor=F0E1C6)
+![Jupyter](https://img.shields.io/badge/Jupyter-9E5A57?style=for-the-badge&logo=jupyter&logoColor=F0E1C6)
 
 ### Development
 
-![Git](https://img.shields.io/badge/Git-7C4141?style=for-the-badge\&logo=git\&logoColor=F0E1C6)
-![GitHub](https://img.shields.io/badge/GitHub-2F3426?style=for-the-badge\&logo=github\&logoColor=F0E1C6)
-![VS Code](https://img.shields.io/badge/VS_Code-4F5840?style=for-the-badge\&logo=visualstudiocode\&logoColor=F0E1C6)
-![Docker](https://img.shields.io/badge/Docker-6B724B?style=for-the-badge\&logo=docker\&logoColor=F0E1C6)
-![Linux](https://img.shields.io/badge/Linux-B48754?style=for-the-badge\&logo=linux\&logoColor=2F3426)
+![Git](https://img.shields.io/badge/Git-7C4141?style=for-the-badge&logo=git&logoColor=F0E1C6)
+![GitHub](https://img.shields.io/badge/GitHub-2F3426?style=for-the-badge&logo=github&logoColor=F0E1C6)
+![VS Code](https://img.shields.io/badge/VS_Code-4F5840?style=for-the-badge&logo=visualstudiocode&logoColor=F0E1C6)
+![Docker](https://img.shields.io/badge/Docker-6B724B?style=for-the-badge&logo=docker&logoColor=F0E1C6)
+![Linux](https://img.shields.io/badge/Linux-B48754?style=for-the-badge&logo=linux&logoColor=2F3426)
 
 </div>
 
@@ -141,14 +141,14 @@ Designed to organize assignments, explain coursework, build study schedules, syn
 
 ## Currently Growing
 
-|             | Focus                                                   |
-| ----------- | ------------------------------------------------------- |
-| Building    | Machine-learning prediction systems                     |
-| Researching | Marine heat stress and environmental forecasting        |
-| Improving   | Data pipelines, model accuracy, and feature engineering |
-| Exploring   | AI agents and open-source language models               |
-| Creating    | Music, software, and digital experiences                |
-| Preparing   | AI, machine-learning, and data-science opportunities    |
+| Focus | Description |
+|---|---|
+| Building | Machine-learning prediction systems |
+| Researching | Marine heat stress and environmental forecasting |
+| Improving | Data pipelines, model accuracy, and feature engineering |
+| Exploring | AI agents and open-source language models |
+| Creating | Music, software, and digital experiences |
+| Preparing | AI, machine-learning, and data-science opportunities |
 
 ---
 
@@ -179,12 +179,12 @@ Primary Interests
 
 ## Beyond the Screen
 
-* I play sousaphone in the **FAMU Marching 100**
-* I produce beats and create music in FL Studio
-* I enjoy experimenting with open-source AI models
-* I’m interested in basketball analytics and forecasting
-* I want to use technology to solve real-world problems
-* I believe technical skill should be paired with creativity and purpose
+- I play sousaphone in the **FAMU Marching 100**
+- I produce beats and create music in FL Studio
+- I enjoy experimenting with open-source AI models
+- I’m interested in basketball analytics and forecasting
+- I want to use technology to solve real-world problems
+- I believe technical skill should be paired with creativity and purpose
 
 ---
 
@@ -197,4 +197,4 @@ Primary Interests
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:252820,40:4F5840,70:7C4141,100:B48754&height=130&section=footer">
 
 </div>
-```
+````
