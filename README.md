@@ -15,7 +15,7 @@
 
 I’m **Jaylen Bain**, a Computer Science student at **Florida A&M University** focused on artificial intelligence, machine learning, data science, and intelligent software systems.
 
-I enjoy building projects that take complicated data and turn it into something useful—whether that means predicting NBA player performance, studying environmental risks, or designing AI-powered tools that make information easier to understand.
+I enjoy building projects that take complicated data and turn it into something useful, whether that means predicting NBA player performance, studying environmental risks, or designing AI-powered tools that make information easier to understand.
 
 Outside of technology, I play **sousaphone in the FAMU Marching 100** and serve as the **Southeast District Vice President of Programs for Kappa Kappa Psi**.
 
@@ -96,15 +96,6 @@ Designed to evaluate market prices, estimate probabilities, detect potential mis
 
 ---
 
-### 🎓 AI School Assistant
-
-> A personal academic assistant designed around student workflows.
-
-`Python` `AI Agents` `Canvas LMS` `Automation` `Local Models`
-
-A planned intelligent assistant for organizing assignments, syncing course information, explaining material, building study plans, and helping students manage their academic workload.
-
----
 
 <div align="center">
 
